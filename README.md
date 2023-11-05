@@ -6,7 +6,7 @@ This project makes use of: <br><br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Status
-- [x] Gameboard, Candy Snake entities
+- [x] Gameboard, Candy and Snake entities
 ### Game logic
 - [x] Snake movement
 - [x] Snake feeding
